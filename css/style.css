@@ -605,6 +605,10 @@ progress::-moz-progress-value {
     opacity: 0.8;
 }
 
+.modal__input::placeholder {
+    color: rgb(36, 36, 36);
+}
+
 .modal__input input {
     padding-left: 3rem;
     padding-right: 3rem;
